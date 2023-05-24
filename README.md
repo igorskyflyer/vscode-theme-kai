@@ -1,7 +1,7 @@
 # Kai 🌊
 
 <div align="center>
-	<img src="assets/kai.png" alt="Kai - a Visual Studio Code theme">
+	<img src="./assets/kai.png" alt="Kai - a Visual Studio Code theme">
 </div>
 
 #### Aloha!
