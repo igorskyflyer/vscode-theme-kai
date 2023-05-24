@@ -15,11 +15,13 @@
 <div align="center">
 	<img src="./assets/screenshot-1.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
-<em>Editor</em>
-<br>
+	<em>Editor</em>
+	<br>
+	<br>
 	<img src="./assets/screenshot-2.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
 	<em>Command Palette</em>
+	<br>
 	<br>
 	<img src="./assets/screenshot-3.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
