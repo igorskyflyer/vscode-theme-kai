@@ -10,7 +10,8 @@
 		"vscode": "^1.78.0"
 	},
 	"extensionKind": [
-		"ui"
+		"ui",
+		"workspace"
 	],
 	"capabilities": {
 		"untrustedWorkspaces": {
