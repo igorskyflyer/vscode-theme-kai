@@ -1,5 +1,5 @@
 .vscode/**
 .vscode-test/**
 .github/**
+assets/*.afdesign
 .gitignore
-*.afdesign
