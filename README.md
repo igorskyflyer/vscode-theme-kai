@@ -1,12 +1,12 @@
 <div align="center">
 	<img src="./assets/kai.png" alt="Kai - a Visual Studio Code theme">
+	<br>
+	<em><strong>Kai</strong> &ndash; <code>where code meets the sea</code></em>
 </div>
 
 <br>
 
 ## Kai 🌊
-
-_**Kai**_ &ndash; `where code meets the sea`
 
 🌊 Aloha! Immerse yourself in the tranquil depths of coding with this refreshing VS Code theme inspired by the beauty of the Hawaiian sea. Let the soothing colors of Kai wash over your editor, creating a harmonious environment that enhances your focus and creativity. Experience the serenity of the ocean as you dive into your codebase, where every line of code is a hidden treasure waiting to be discovered. 🦞
 
