@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/kai.png" alt="Kai - a Visual Studio Code theme">
+	<img src="./assets/kai-256x256.png" alt="Kai - a Visual Studio Code theme">
 	<br>
 	<em><strong>Kai</strong>: <code>where code meets the sea</code></em>
 </div>
