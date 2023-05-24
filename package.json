@@ -20,7 +20,8 @@
 	},
 	"icon": "assets/kai.png",
 	"categories": [
-		"Themes"
+		"Themes",
+		"Other"
 	],
 	"contributes": {
 		"themes": [
