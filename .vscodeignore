@@ -2,5 +2,6 @@
 .vscode-test/**
 .github/**
 assets/*.afdesign
+assets/kai-256x256.png
 assets/screenshot*.png
 .gitignore
