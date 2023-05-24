@@ -25,9 +25,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kai",
+				"label": "Kai Standard",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Kai-color-theme.json"
+				"path": "./themes/kai-standard.json"
 			}
 		]
 	},
