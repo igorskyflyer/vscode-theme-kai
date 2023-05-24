@@ -47,5 +47,9 @@
 		"type": "git",
 		"url": "https://github.com/igorskyflyer/vscode-theme-kai"
 	},
+	"bugs": {
+		"url": "https://github.com/igorskyflyer/vscode-theme-kai/issues"
+	},
+	"homepage": "https://github.com/igorskyflyer/vscode-theme-kai/blob/main/README.md",
 	"license": "SEE LICENSE IN LICENSE"
 }
