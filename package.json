@@ -7,6 +7,15 @@
 	"engines": {
 		"vscode": "^1.78.0"
 	},
+	"extensionKind": [
+		"ui"
+	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"icon": "assets/kai.png",
 	"categories": [
 		"Themes"
 	],
@@ -19,6 +28,21 @@
 			}
 		]
 	},
+	"galleryBanner": {
+		"color": "#5065E5",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"kai",
+		"dark",
+		"sea",
+		"hawaii",
+		"blue",
+		"dark-blue",
+		"navy",
+		"igordvlpr"
+	],
 	"repository": {
 		"url": "https://github.com/igorskyflyer/vscode-theme-kai"
 	},
