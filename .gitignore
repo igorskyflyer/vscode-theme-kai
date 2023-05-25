@@ -2,3 +2,4 @@ node_modules/
 .vscode/
 *.vsix
 *.afdesign
+assets/promo/social.png
