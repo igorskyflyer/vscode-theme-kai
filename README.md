@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div><h2>Kai 🌊</h2>
+<div><h2>Kai 🌊</h2><img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/igordvlpr.kai-theme"> <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/igordvlpr.kai-theme">
 
 <br>
 
