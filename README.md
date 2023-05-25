@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/kai-256x256.png" alt="Kai - a Visual Studio Code theme">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/kai-256x256.png" alt="Kai - a Visual Studio Code theme">
 	<br>
 	<em><strong>Kai</strong>: <code>Where Code Meets the Sea</code></em>
 </div>
@@ -19,17 +19,17 @@
 ### Screenshots
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/screenshot-1.png" alt="Screenshot of Visual Studio Code running Kai theme">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/screenshot-1.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
 	<em>Editor</em>
 	<br>
 	<br>
-	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/screenshot-2.png" alt="Screenshot of Visual Studio Code running Kai theme">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/screenshot-2.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
 	<em>Command Palette</em>
 	<br>
 	<br>
-	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/screenshot-3.png" alt="Screenshot of Visual Studio Code running Kai theme">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/screenshot-3.png" alt="Screenshot of Visual Studio Code running Kai theme">
 	<br>
 	<em>Terminal</em>
 </div>
