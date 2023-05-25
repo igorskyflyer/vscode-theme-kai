@@ -3,5 +3,6 @@
 .github/**
 assets/kai-256x256.png
 assets/screenshot*.png
+assets/promo.png
 assets/*.afdesign
 .gitignore
