@@ -1,8 +1,6 @@
 .vscode/**
 .vscode-test/**
 .github/**
-assets/kai-256x256.png
-assets/screenshot*.png
-assets/promo.png
+assets/promo/**
 assets/*.afdesign
 .gitignore
