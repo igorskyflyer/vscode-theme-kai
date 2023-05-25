@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div><h2>Kai 🌊</h2> <img src="https://vsmarketplacebadges.dev/installs-short/igordvlpr.kai-theme.svg" alt=""> <img src="https://vsmarketplacebadges.dev/rating-star/igordvlpr.kai-theme.svg" alt=""></div>
+<div><h2>Kai 🌊</h2>
 
 <br>
 
