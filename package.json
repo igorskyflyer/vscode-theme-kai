@@ -1,10 +1,10 @@
 {
 	"name": "kai-theme",
-	"displayName": "Kai",
+	"version": "1.0.1",
 	"publisher": "igordvlpr",
+	"displayName": "Kai",
 	"author": "Igor Dimitrijević <admin@igorskyflyer.me> (https://github.com/igorskyflyer)",
 	"description": "🌊 Aloha! Kai: Where Code Meets the Sea. Immerse yourself in the tranquil depths of coding with this refreshing VS Code theme inspired by the beauty of the Hawaiian sea. 🦞",
-	"version": "1.0.1",
 	"maintainers": [
 		"Igor Dimitrijević <admin@igorskyflyer.me>"
 	],
