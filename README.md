@@ -7,8 +7,16 @@
 <br>
 <br>
 
-<div><h2>Kai 🌊</h2><img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/igordvlpr.kai-theme"> <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/igordvlpr.kai-theme">
+<h2>Kai 🌊</h2>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/promo.png" alt="Kai - a Visual Studio Code theme">
+	<br>
+	<br>
+	<img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/igordvlpr.kai-theme">
+	<img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/igordvlpr.kai-theme">
+</div>
 
+<br>
 <br>
 
 🌊 Aloha! Immerse yourself in the tranquil depths of coding with this refreshing VS Code theme inspired by the beauty of the Hawaiian sea. Let the soothing colors of Kai wash over your editor, creating a harmonious environment that enhances your focus and creativity. Experience the serenity of the ocean as you dive into your codebase, where every line of code is a hidden treasure waiting to be discovered. 🦞
