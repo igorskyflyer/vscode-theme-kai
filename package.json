@@ -51,7 +51,8 @@
 		"blue",
 		"dark-blue",
 		"navy",
-		"igordvlpr"
+		"igordvlpr",
+		"igordvlpr-theme"
 	],
 	"repository": {
 		"type": "git",
