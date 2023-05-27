@@ -4,3 +4,4 @@
 assets/promo/**
 assets/*.afdesign
 .gitignore
+CHANGELOG_ALL.md
