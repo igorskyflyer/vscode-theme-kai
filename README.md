@@ -2,17 +2,9 @@
 	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/kai-256x256.png" alt="Kai - a Visual Studio Code theme">
 	<br>
 	<em><strong>Kai</strong>: <code>Where Code Meets the Sea</code></em>
-</div>
-
-<br>
-<br>
-
-<h2>Kai 🌊</h2>
-<div align="center">
-	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/promo.png" alt="Kai - a Visual Studio Code theme">
 	<br>
 	<br>
-	<img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/igordvlpr.kai-theme">
+		<img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/igordvlpr.kai-theme">
 	<img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/igordvlpr.kai-theme">
 </div>
 
@@ -24,7 +16,16 @@
 <br>
 <br>
 
-### Screenshots
+<div align="center">
+	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/promo.png" alt="Kai - a Visual Studio Code theme">
+</div>
+
+<br>
+<br>
+
+### 📸 Screenshots
+
+<br>
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/igorskyflyer/vscode-theme-kai/main/assets/promo/screenshot-1.png" alt="Screenshot of Visual Studio Code running Kai theme">
