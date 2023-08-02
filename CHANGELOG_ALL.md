@@ -1,6 +1,16 @@
 # Kai 🌊
 
-## v1.0.3 - Jul 16, 2023
+<br>
+
+## v1.0.4 - 02-Aug-2023
+
+- fix active tab background color
+- fix tab hover background color
+
+<br>
+<br>
+
+## v1.0.3 - 16-Jul-2023
 
 - fix terminal.selectionBackground
 - fix editor.selectionBackground
@@ -9,7 +19,7 @@
 <br>
 <br>
 
-## v1.0.2 - May 27, 2023
+## v1.0.2 - 27-May-2023
 
 - reduce package size,
 - update branding,
@@ -18,13 +28,13 @@
 <br>
 <br>
 
-## v1.0.1 - May 25, 2023
+## v1.0.1 - 25-May-2023
 
 - update branding
 
 <br>
 <br>
 
-## v1.0.0 - May 25, 2023
+## v1.0.0 - 25-May-2023
 
 - initial release
